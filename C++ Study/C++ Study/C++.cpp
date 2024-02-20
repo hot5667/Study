@@ -61,3 +61,5 @@ int get_sum(int n)
 	return sum;
 }
 // n (n + 1) / 2 시간 복잡도 
+
+// 해당 정보는 깃 테스트 입니다.
