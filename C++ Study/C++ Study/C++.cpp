@@ -60,5 +60,5 @@ int get_sum(int n)
 
 	return sum;
 }
-// n (n + 1) / 2 시간 복잡도 
+// n (n + 1) / 2 시간 복잡도 즉 시그마 연산
 
