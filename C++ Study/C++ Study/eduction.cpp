@@ -100,8 +100,10 @@ int main()
 		data = 1000;
 	}
 
+	if (data == 100)
+	{
 
-
+	}
 
 	return 0;
 }
