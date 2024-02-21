@@ -45,5 +45,17 @@ int main()
 
 	int a = 4 + 4.0;
 
+	//if ¹®¹ı
+
+	int data = 0;
+
+	if (0 && 200) //°ÅÁş
+	{
+		data = 1000;
+	}
+
+
+
+
 	return 0;
 }
